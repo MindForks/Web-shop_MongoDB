@@ -1,0 +1,11 @@
+C:\WORK\Git projects\Web-shop_MongoDB\Web-shop_MongoDB\Web-shop_MongoDB\bin\Debug\netcoreapp2.1\Web-shop_MongoDB.deps.json
+C:\WORK\Git projects\Web-shop_MongoDB\Web-shop_MongoDB\Web-shop_MongoDB\bin\Debug\netcoreapp2.1\Web-shop_MongoDB.runtimeconfig.json
+C:\WORK\Git projects\Web-shop_MongoDB\Web-shop_MongoDB\Web-shop_MongoDB\bin\Debug\netcoreapp2.1\Web-shop_MongoDB.runtimeconfig.dev.json
+C:\WORK\Git projects\Web-shop_MongoDB\Web-shop_MongoDB\Web-shop_MongoDB\bin\Debug\netcoreapp2.1\Web-shop_MongoDB.dll
+C:\WORK\Git projects\Web-shop_MongoDB\Web-shop_MongoDB\Web-shop_MongoDB\obj\Debug\netcoreapp2.1\Web-shop_MongoDB.csprojAssemblyReference.cache
+C:\WORK\Git projects\Web-shop_MongoDB\Web-shop_MongoDB\Web-shop_MongoDB\obj\Debug\netcoreapp2.1\Web-shop_MongoDB.csproj.CoreCompileInputs.cache
+C:\WORK\Git projects\Web-shop_MongoDB\Web-shop_MongoDB\Web-shop_MongoDB\obj\Debug\netcoreapp2.1\Web-shop_MongoDB.AssemblyInfoInputs.cache
+C:\WORK\Git projects\Web-shop_MongoDB\Web-shop_MongoDB\Web-shop_MongoDB\obj\Debug\netcoreapp2.1\Web-shop_MongoDB.AssemblyInfo.cs
+C:\WORK\Git projects\Web-shop_MongoDB\Web-shop_MongoDB\Web-shop_MongoDB\bin\Debug\netcoreapp2.1\Web-shop_MongoDB.pdb
+C:\WORK\Git projects\Web-shop_MongoDB\Web-shop_MongoDB\Web-shop_MongoDB\obj\Debug\netcoreapp2.1\Web-shop_MongoDB.dll
+C:\WORK\Git projects\Web-shop_MongoDB\Web-shop_MongoDB\Web-shop_MongoDB\obj\Debug\netcoreapp2.1\Web-shop_MongoDB.pdb
